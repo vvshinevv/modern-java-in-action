@@ -14,7 +14,7 @@
 | 주차 | 과제 | 진행 |
 |-----|------|------|
 | week 1 | chapter.1 | chapter.1 |
-| week 2 | chapter.1 - chapter.3  |  |
+| week 2 | chapter.2 - chapter.3  | chapter.2 - chapter.3 |
 | week 3 | chapter.4 - chapter.5  |  |
 | week 4 | chapter.6 - chapter.7  |  |
 | week 5 | chapter.8 - chapter.10  |  |
